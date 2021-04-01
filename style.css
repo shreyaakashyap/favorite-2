@@ -1,0 +1,13 @@
+body{
+  
+  text-align:center;
+  
+  background: linear-gradient(pink,blue);
+  background-repeat:no-repeat;
+  color:white;
+}
+img{
+  width:75px;
+  border-radius:50%;
+  border-style:dotted;
+}
